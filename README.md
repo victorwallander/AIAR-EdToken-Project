@@ -1,2 +1,2 @@
-# aiar-edtoken-compiled
+# AIAR EdToken 
 EdToken projekt
